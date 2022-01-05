@@ -24,6 +24,3 @@ GitHub: UncleTupelo
 ![image](https://user-images.githubusercontent.com/89108323/148140630-5b580901-dfe9-42d8-bc6e-cb47e5c2bbbf.jpg)
 
 # Crypto Research samples
-DOT211901-jf.pdf
-
-ETH210808 - quick idea pitch.pdf
