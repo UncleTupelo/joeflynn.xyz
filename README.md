@@ -24,3 +24,7 @@ GitHub: UncleTupelo
 ![image](https://user-images.githubusercontent.com/89108323/148140630-5b580901-dfe9-42d8-bc6e-cb47e5c2bbbf.jpg)
 
 # Crypto Research samples
+
+https://drive.google.com/file/d/11-UxrPNQLiXeUk3TdSPdoO1yEuVoLT79/view?usp=sharing
+
+https://drive.google.com/file/d/1wN67-f2EqFc7JmwbQ1lXYt08KQ2wSw_b/view?usp=sharing
